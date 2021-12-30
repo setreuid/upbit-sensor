@@ -1,0 +1,6 @@
+*.exe
+logs/
+.idea/
+*.iml
+vscode/
+UpbitSensor
